@@ -41,3 +41,8 @@ My work (see ./fabriq - not all files present):
 
 - Mechanical design
 - Firmware
+
+# FEA of Running Prosthesis (ME574)
+<img src="biomech/biomech.png" width="320" height="240">
+
+- Finite element model of carbon fibre reinforced polymer prosthesis to optimize shape
