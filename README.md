@@ -4,7 +4,10 @@ rojkovphillip@gmail.com
 https://www.linkedin.com/in/phillip-rojkov/
 
 # Laundry folding capstone FABRIQ
-![Demo](fabriq/folding.gif)
+<p align="center">
+  <img src="fabriq/folding.gif" width="700">
+</p>
+
 [Full video](fabriq/folding.mov)
 [Public Onshape Link](https://cad.onshape.com/documents/496138d32451a37043e1de6e/w/243f7f1cecadb00b49139785/e/d179321f5ef1c8fa17bde102)
 [Poster](fabriq/poster.pdf)
@@ -23,6 +26,10 @@ My work (see ./fabriq - not all files present):
 - All integrated into PLL circuit
 
 # Stewart Platform (MTE380)
-![Demo](platform/platform.gif)
+<p align="center">
+  <img src="platform/platform.gif" width="300">
+</p>
+
+[Full video](platform/platform.mov)
 - Mechanical design
 - Firmware
