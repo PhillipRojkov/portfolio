@@ -37,7 +37,7 @@ My work (see ./fabriq - not all files present):
 
 [Full video](platform/platform.mov)
 
-[Onshape] (https://cad.onshape.com/documents/0d139236b3764ea57d5cb798/w/9206d11131af0e21cf592587/e/a38cbd91f123258eae9a3726?renderMode=0&uiState=69c43fde07ede44da18b0bd7)
+[Onshape](https://cad.onshape.com/documents/0d139236b3764ea57d5cb798/w/9206d11131af0e21cf592587/e/a38cbd91f123258eae9a3726?renderMode=0&uiState=69c43fde07ede44da18b0bd7)
 
 - Mechanical design
 - Firmware
