@@ -28,7 +28,7 @@ My work (see ./fabriq - not all files present):
   <img src="handtrack/handtrack.gif" width="700">
 </p>
 
-Done in a morning of the capstone base above
+Done in a morning using the capstone as a base
 - Camera calibration
 - Google mediapipe hand tracking
 - Transformations to arm frame
