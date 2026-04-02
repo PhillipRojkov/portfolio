@@ -23,6 +23,16 @@ My work (see ./fabriq - not all files present):
 - Firmware (arduino)
 - Python interface (serial, ikm, move abstraction, test script)
 
+# Hand controlled robot (MTE547)
+<p align="center">
+  <img src="handtrack/handtrack.gif" width="700">
+</p>
+
+Done in a morning of the capstone base above
+- Camera calibration
+- Google mediapipe hand tracking
+- Transformations to arm frame
+
 # PLL Design/Sim in LTSpice (MTE421)
 <img src="spice/spicecircuit.png" width="320" height="240">  <img src="spice/spiceplot.png" width="320" height="240"> 
 - DFlipFlop design with fets and logic blocks
